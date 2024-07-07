@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426448742375",
+    "project_id": "videoconferencingapp-f05db",
+    "storage_bucket": "videoconferencingapp-f05db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426448742375:android:380a6aa75d3486ba3aff42",
+        "android_client_info": {
+          "package_name": "com.example.videoconferencingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426448742375-q2sipme2c6pl7k6pn4qb1ao0emf7rd0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videoconferencingapp",
+            "certificate_hash": "e16d1a003fb0c333a7b88de911f951dc03269525"
+          }
+        },
+        {
+          "client_id": "426448742375-ue3ajbn8i9l5vnfu8m36rkorhqncoc0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videoconferencingapp",
+            "certificate_hash": "949e981617789fe30240c3967d19d335515b114d"
+          }
+        },
+        {
+          "client_id": "426448742375-bs8oqgkh493ggu14kdki2r0tpvr4ajbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9493qYXMdFY0rwaMx32R2ZZaepezg9O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426448742375-bs8oqgkh493ggu14kdki2r0tpvr4ajbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
